@@ -1,5 +1,5 @@
---EEI5466 – Advanced Database Systems - MiniProject--
---RegNo 719218470 - MIF Hasna---
+--EEI5466 â€“ Advanced Database Systems - MiniProject--
+- MIF Hasna---
 -- Library Management System ---
 
 -- Creating a database --
